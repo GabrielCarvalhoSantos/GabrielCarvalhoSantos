@@ -1,10 +1,62 @@
-### Olá! Eu sou Gabriel Carvalho 👋
-##
-Links sociais 👇
+# Olá, eu sou Gabriel Carvalho 👋
 
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_carvalho91/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcarvalhosantos3425@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-carvalho-7a1302307/)
-##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCarvalhoSantos&layout=compact&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)
+<p align="center">
+  <a href="mailto:gabrielcarvalhosantos3425@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-carvalho-santos/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
+**Full Stack Developer | Java • Spring Boot • Next.js**
+
+🎓 Bacharel em Sistemas de Informação pelo Instituto Federal de Sergipe (IFS)
+
+💻 Desenvolvedor Full Stack com foco em backend Java, experiência no desenvolvimento de APIs REST utilizando Spring Boot e familiaridade com React/Next.js para construção de interfaces modernas.
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=GabrielCarvalhoSantos&label=Visualizações&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+---
+
+
+## 🛠️ Tecnologias
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman" />
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielCarvalhoSantos&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielCarvalhoSantos&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielCarvalhoSantos&theme=github_dark" />
+</p>
